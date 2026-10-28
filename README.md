@@ -1,16 +1,84 @@
-## Hi there 👋
+### Electrical & Control Engineering • AI & Robotics • Research-Oriented Engineer
 
-<!--
-**DariushKhosrowan/DariushKhosrowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering (Control) student at **Iran University of Science and Technology (IUST)** with interests in:
 
-Here are some ideas to get you started:
+* 🤖 Robotics & Autonomous Systems  
+* 🧠 Artificial Intelligence & Machine Learning  
+* ⚙️ Control Systems & Optimization  
+* 👁️ Computer Vision  
+* 📊 Data Science & Analytics  
+* 🌍 Intelligent Engineering Solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on **Decentralized and Safe Formation Control for Differential-Drive Mobile Robots with Minimal Sensing**, while exploring how AI can enhance autonomy, decision-making, and real-world engineering systems.
+
+---
+
+### Current Interests
+
+* Reinforcement Learning  
+* Multi-Agent Systems  
+* Autonomous Robotics  
+* Computer Vision  
+* Intelligent Control  
+* Data-Driven Engineering  
+
+---
+
+### Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42"/>
+</p>
+
+---
+
+### Selected Experience
+
+🔹 Research & Data Assistant — Lotus Futurists  
+
+🔹 Computer Vision Research Intern — CVLab, IUST  
+
+🔹 Teaching Assistant — Artificial Intelligence, Industrial Control Lab, Programming  
+
+🔹 Founder & Host — EnglishConvey  
+
+---
+
+### Connect
+
+🌐 Portfolio: [https://about.me/DariushKhosrowan](https://about.me/DariushKhosrowan)  
+
+💼 LinkedIn: [https://www.linkedin.com/in/amir-hossein-eslami](https://www.linkedin.com/in/amir-hossein-eslami)  
+
+📧 Email: [amirhossein.eslami.ac@gmail.com](mailto:amirhossein.eslami.ac@gmail.com)  
+
+---
+
+### GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DariushKhosrowan&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DariushKhosrowan&theme=transparent" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DariushKhosrowan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+> "The future belongs to systems that can sense, learn, adapt, and collaborate."
