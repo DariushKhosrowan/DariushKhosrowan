@@ -173,28 +173,6 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/DariushKhosrowan/RL_Crawling_Robot">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DariushKhosrowan&repo=RL_Crawling_Robot&bg_color=0d1530&title_color=22d3ee&text_color=94a3b8&icon_color=c084fc&border_color=1e2a52&border_radius=14" alt="RL_Crawling_Robot"/>
-</a>
-<a href="https://github.com/DariushKhosrowan/CarDetection_yolov8">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DariushKhosrowan&repo=CarDetection_yolov8&bg_color=0d1530&title_color=22d3ee&text_color=94a3b8&icon_color=c084fc&border_color=1e2a52&border_radius=14" alt="CarDetection_yolov8"/>
-</a>
-
-<a href="https://github.com/DariushKhosrowan/Othello-AI-MiniMax">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DariushKhosrowan&repo=Othello-AI-MiniMax&bg_color=0d1530&title_color=22d3ee&text_color=94a3b8&icon_color=c084fc&border_color=1e2a52&border_radius=14" alt="Othello-AI-MiniMax"/>
-</a>
-<a href="https://github.com/DariushKhosrowan/ANN-Handwritten-Digit-Recognition">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DariushKhosrowan&repo=ANN-Handwritten-Digit-Recognition&bg_color=0d1530&title_color=22d3ee&text_color=94a3b8&icon_color=c084fc&border_color=1e2a52&border_radius=14" alt="ANN-Handwritten-Digit-Recognition"/>
-</a>
-
-<a href="https://github.com/DariushKhosrowan/student-depression-detection">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DariushKhosrowan&repo=student-depression-detection&bg_color=0d1530&title_color=22d3ee&text_color=94a3b8&icon_color=c084fc&border_color=1e2a52&border_radius=14" alt="student-depression-detection"/>
-</a>
-
-</div>
-
 <br/>
 
 | Project | What it does | Stack |
